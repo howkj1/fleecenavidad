@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: cdcafddd530a14b94a81b0f54e5760b0
+timeCreated: 1452806020
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: generic_platformer_tiles_0
+    21300002: generic_platformer_tiles_2
+    21300004: generic_platformer_tiles_3
+    21300006: generic_platformer_tiles_4
+    21300008: generic_platformer_tiles_5
+    21300010: generic_platformer_tiles_6
+    21300012: generic_platformer_tiles_7
+    21300014: generic_platformer_tiles_8
+    21300016: generic_platformer_tiles_9
+    21300018: generic_platformer_tiles_1
+    21300020: generic_platformer_tiles_10
+    21300022: generic_platformer_tiles_11
+    21300024: generic_platformer_tiles_12
+    21300026: generic_platformer_tiles_13
+    21300028: generic_platformer_tiles_14
+    21300030: generic_platformer_tiles_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: generic_platformer_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 642
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+    - name: generic_platformer_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 416
+        width: 248
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 47.5}
+        - {x: 93, y: 40.5}
+        - {x: 76, y: 30.5}
+        - {x: -32, y: 47.5}
+        - {x: -124, y: 47.5}
+        - {x: -124, y: 14.5}
+        - {x: -89, y: -20.5}
+        - {x: -48, y: -47.5}
+        - {x: 54, y: -47.5}
+        - {x: 124, y: 2.5}
+        - {x: 124, y: 29.5}
+        - {x: 114, y: 47.5}
+    - name: generic_platformer_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 255
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 48}
+        - {x: -44.5, y: 48}
+        - {x: -48.5, y: 33}
+        - {x: -48.5, y: -19}
+        - {x: -37.5, y: -48}
+        - {x: 34.5, y: -48}
+        - {x: 48.5, y: -16}
+        - {x: 48.5, y: 32}
+        - {x: 46.5, y: 45}
+    - name: generic_platformer_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 224
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+    - name: generic_platformer_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+    - name: generic_platformer_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 256
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+        - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+      - - {x: 321, y: -240}
+        - {x: 321, y: 240}
+        - {x: -321, y: 240}
+        - {x: -321, y: -240}
+    - name: generic_platformer_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 160
+        width: 160
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 31.5}
+        - {x: -76, y: 10.5}
+        - {x: -80, y: -2.5}
+        - {x: -80, y: -31.5}
+        - {x: 80, y: -31.5}
+        - {x: 80, y: -13.5}
+        - {x: 15, y: 31.5}
+    - name: generic_platformer_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 352
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 32}
+        - {x: -16.5, y: -32}
+        - {x: 16.5, y: -32}
+        - {x: 16.5, y: 32}
+    - name: generic_platformer_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: generic_platformer_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 640
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 16}
+        - {x: -18, y: -13}
+        - {x: -16, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 16}
+    - name: generic_platformer_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 33
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 47.5}
+        - {x: -16.5, y: -43.5}
+        - {x: -12.5, y: -47.5}
+        - {x: 12.5, y: -47.5}
+        - {x: 16.5, y: -43.5}
+        - {x: 16.5, y: 47.5}
+    - name: generic_platformer_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 608
+        width: 203
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: 16}
+        - {x: -101.5, y: -16}
+        - {x: 94.5, y: -16}
+        - {x: 101.5, y: -4}
+        - {x: 101.5, y: 16}
+    - name: generic_platformer_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -12}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: generic_platformer_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 512
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 47.5}
+        - {x: -16, y: -42.5}
+        - {x: -11, y: -47.5}
+        - {x: 13, y: -47.5}
+        - {x: 16, y: -44.5}
+        - {x: 16, y: 47.5}
+    - name: generic_platformer_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 544
+        width: 129
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 32}
+        - {x: -64.5, y: -32}
+        - {x: 59.5, y: -32}
+        - {x: 64.5, y: -27}
+        - {x: 64.5, y: 32}
+    - name: generic_platformer_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 512
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 16}
+        - {x: -31.5, y: -13}
+        - {x: -28.5, y: -16}
+        - {x: 27.5, y: -16}
+        - {x: 31.5, y: -12}
+        - {x: 31.5, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
